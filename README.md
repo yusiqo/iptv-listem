@@ -10,6 +10,12 @@ Aşağıdaki bağlantı, çeşitli kategorilerde kanalları içeren King Ragnar'
 
 - **[https://raw.githubusercontent.com/yusiqo/iptv-listem/main/kingragnar.m3u](https://raw.githubusercontent.com/yusiqo/iptv-listem/main/kingragnar.m3u)**
 
+### Lord Genel Liste
+Aşağıdaki bağlantı, çeşitli kategorilerde kanalları içeren Lord'a ait genel IPTV listesidir. Bu listeyle haberler, spor, eğlence ve daha birçok kategoriye anında erişim sağlayabilirsiniz:
+
+- **[https://raw.githubusercontent.com/yusiqo/iptv-listem/main/lordunlistesi.m3u](https://raw.githubusercontent.com/yusiqo/iptv-listem/main/lordunlistesi.m3u)**
+
+
 ## IPTV Kurulumu
 Bu IPTV listelerini izleyebilmek için aşağıdaki adımları takip edebilirsiniz:
 
